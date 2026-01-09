@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rithik-666
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning springboot and microservices.
+- 🌱 I’m currently learning springboot and microservices and API automation testing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rethikvikas.v@gmail.com
 
